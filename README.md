@@ -1,4 +1,4 @@
-![logo](https://github.com/Aishwarya-TheAnalyst/Aishwarya-TheAnalyst/blob/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png)
+![logo](https://github.com/Aishwarya-TheAnalyst/Aishwarya-TheAnalyst/blob/main/Github%20Background.png)
 <h1 align="center">Hi 👋, I'm Aishwarya Karampuri</h1>
 <h3 align="center">Aspiring Data Analyst from India</h3>
 
