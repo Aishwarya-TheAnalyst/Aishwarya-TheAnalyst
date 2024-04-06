@@ -1,4 +1,4 @@
-![logo](https://github.com/Aishwarya-TheAnalyst/Aishwarya-TheAnalyst/blob/main/Github%20Background.png)
+![logo](https://github.com/Aishwarya-TheAnalyst/Aishwarya-TheAnalyst/blob/main/Github%20Background%20image.png)
 <h1 align="center">Hi 👋, I'm Aishwarya Karampuri</h1>
 <h3 align="center">Aspiring Data Analyst from India</h3>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarya-theanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarya-theanalyst" /> </p>
 
-- 🔭 I’m currently working as a **Technology Analyst**
+- 🔭 I’m currently working as a **Technology Analyst** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aishwarya-TheAnalyst/Data-Analysis-Projects](https://github.com/Aishwarya-TheAnalyst/Data-Analysis-Projects)
 
