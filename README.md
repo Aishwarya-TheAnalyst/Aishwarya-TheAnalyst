@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aishwarya-karampuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aishwarya-karampuri/" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:
+### Tech Stack:
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
