@@ -1,4 +1,4 @@
-![logo](https://github.com/Aishwarya-TheAnalyst/Aishwarya-TheAnalyst/blob/main/Aishwarya%20KArampuri%20(1).png)
+![logo](https://github.com/Aishwarya-TheAnalyst/Aishwarya-TheAnalyst/blob/main/BG.png)
 <h1 align="center">Hi 👋, I'm Aishwarya Karampuri</h1>
 <h3 align="center">Aspiring Data Analyst from India</h3>
 
