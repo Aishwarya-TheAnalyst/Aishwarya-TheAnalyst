@@ -13,7 +13,7 @@
 
   [Sales Insights - Data Analysis using Power Bi and SQL](https://github.com/Aishwarya-TheAnalyst/Sales-Insights-Data-Analysis-using-PowerBI-and-SQL)
 
-  [Covid 19 - Data Analysis using SQL](https://github.com/Aishwarya-TheAnalyst/Covid-19-Data-Analysis-using-SQL)
+  [Covid 19 - Data Analysis using SQL](https://github.com/Aishwarya-TheAnalyst/Covid-19-Data-Exploration-using-SQL)
 
 - 💬 Ask me about **var topics = ['SQL', 'Data Analytics', 'Python', 'Power BI', 'Excel']**
 
