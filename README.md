@@ -15,7 +15,9 @@
 
   [Covid 19 - Data Exploration using SQL](https://github.com/Aishwarya-TheAnalyst/Covid-19-Data-Exploration-using-SQL)
 
-   [HR Analytis using Power BI ](https://github.com/Aishwarya-TheAnalyst/HR-Analytics-using-Power-BI)
+  [HR Analytis using Power BI](https://github.com/Aishwarya-TheAnalyst/HR-Analytics-using-Power-BI)
+
+  [Netflix Data Analysis using Tableau](https://github.com/Aishwarya-TheAnalyst/Netflix-Data-Analysis-using-Tableau)
 
 - 💬 Ask me about **var topics = ['SQL', 'Data Analytics', 'Python', 'Power BI', 'Excel']**
 
