@@ -11,9 +11,11 @@
 
 - 📂 All of My projects are available below
 
-  [Sales Insights - Data Analysis using Power Bi and SQL](https://github.com/Aishwarya-TheAnalyst/Sales-Insights-Data-Analysis-using-PowerBI-and-SQL)
+  [Sales Insights - Data Analysis using Power BI and SQL](https://github.com/Aishwarya-TheAnalyst/Sales-Insights-Data-Analysis-using-PowerBI-and-SQL)
 
   [Covid 19 - Data Exploration using SQL](https://github.com/Aishwarya-TheAnalyst/Covid-19-Data-Exploration-using-SQL)
+
+   [HR Analytis using Power BI ](https://github.com/Aishwarya-TheAnalyst/HR-Analytics-using-Power-BI)
 
 - 💬 Ask me about **var topics = ['SQL', 'Data Analytics', 'Python', 'Power BI', 'Excel']**
 
