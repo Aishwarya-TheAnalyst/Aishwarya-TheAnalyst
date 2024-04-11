@@ -13,6 +13,8 @@
 
   [Sales Insights - Data Analysis using Power BI and SQL](https://github.com/Aishwarya-TheAnalyst/Sales-Insights-Data-Analysis-using-PowerBI-and-SQL)
 
+  [AtliQ  Grands Hospitality Insights using Power BI](https://github.com/Aishwarya-TheAnalyst/AtliQ-Grands-Hospitality-Insights-using-Power-BI)
+
   [Covid 19 - Data Exploration using SQL](https://github.com/Aishwarya-TheAnalyst/Covid-19-Data-Exploration-using-SQL)
 
   [HR Analytis using Power BI](https://github.com/Aishwarya-TheAnalyst/HR-Analytics-using-Power-BI)
@@ -36,10 +38,9 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=F2C811)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=E97627)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=3776AB)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=3776AB)
+
 
 ### 🎓 My Certifications : 
 [Data Analytics Essentials](https://www.credly.com/badges/7470f40b-cbeb-4524-98d6-8e59b6286532/public_url) by Cisco
@@ -55,6 +56,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya-theanalyst&show_icons=true&locale=en&layout=compact" alt="aishwarya-theanalyst" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya-theanalyst&show_icons=true&locale=en&layout=compact" alt="aishwarya-theanalyst" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya-theanalyst&" alt="aishwarya-theanalyst" /></p>
