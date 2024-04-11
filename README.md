@@ -9,7 +9,7 @@
 
 - 👩‍💼 I’m currently working as a **Technology Analyst** 
 
-- 📂 All of My projects are available below
+- 📂 Here's a list of all my projects:
 
   [Sales Insights - Data Analysis using Power BI and SQL](https://github.com/Aishwarya-TheAnalyst/Sales-Insights-Data-Analysis-using-PowerBI-and-SQL)
 
