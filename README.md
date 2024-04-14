@@ -45,13 +45,13 @@
 ### 🎓 My Certifications : 
 [Data Analytics Essentials](https://www.credly.com/badges/7470f40b-cbeb-4524-98d6-8e59b6286532/public_url) by Cisco
 
-[Data Visualisation : Empowering Business with Effectve Insights](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_rDWP2Jqwfdoy5L2QT_1701000809415_completion_certificate.pdf) by TATA
+[Data Visualisation : Empowering Business with Effective Insights](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_rDWP2Jqwfdoy5L2QT_1701000809415_completion_certificate.pdf) by TATA
 
 [Data Analytics & Visualisation Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_rDWP2Jqwfdoy5L2QT_1700672574734_completion_certificate.pdf) by Accenture
 
 [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/374fc62cb45e4e78a02b2c64e0bf5a32) by IBM
 
-[Programming for Everbody getting started with Python](https://www.coursera.org/account/accomplishments/verify/M8N4Y6ZGBBLE?utm_source=mobile&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+[Programming for Everybody getting started with Python](https://www.coursera.org/account/accomplishments/verify/M8N4Y6ZGBBLE?utm_source=mobile&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 
 
