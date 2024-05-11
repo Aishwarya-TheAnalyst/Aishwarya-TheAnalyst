@@ -45,6 +45,8 @@
 ### 🎓 My Certifications : 
 [Data Analytics Essentials](https://www.credly.com/badges/7470f40b-cbeb-4524-98d6-8e59b6286532/public_url) by Cisco
 
+[Python for Data Analysis and Visualization](https://www.udemy.com/certificate/UC-3c88858d-ee63-441c-93fe-7d6390a37604/) by Udemy
+
 [Data Visualisation : Empowering Business with Effective Insights](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_rDWP2Jqwfdoy5L2QT_1701000809415_completion_certificate.pdf) by TATA
 
 [Data Analytics & Visualisation Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_rDWP2Jqwfdoy5L2QT_1700672574734_completion_certificate.pdf) by Accenture
