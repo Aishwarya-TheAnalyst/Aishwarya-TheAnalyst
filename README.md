@@ -55,4 +55,5 @@
 
 [Programming for Everybody getting started with Python](https://www.coursera.org/account/accomplishments/verify/M8N4Y6ZGBBLE?utm_source=mobile&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya-theanalyst&" alt="aishwarya-theanalyst" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya-theanalyst&theme=default" alt="aishwarya-theanalyst" /></p>
+
