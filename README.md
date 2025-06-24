@@ -1,13 +1,13 @@
 ![logo](https://github.com/Aishwarya-TheAnalyst/Aishwarya-TheAnalyst/blob/main/BG.png)
 <h1 align="center">Hi 👋, I'm Aishwarya Karampuri</h1>
-<h3 align="center">Aspiring Data Analyst from India</h3>
+<h3 align="center">Data Analyst</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarya-theanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarya-theanalyst" /> </p>
 
-- 👩‍💼 I’m currently working as a **Technology Analyst** 
+- 👩‍💼 I’m currently working as a **Data Analyst** 
 
 - 📂 Here's a list of all my projects:
 
